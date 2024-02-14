@@ -1,5 +1,9 @@
 # Visual Word Sense Disambiguation (Visual-WSD)
 
+## Final Work
+
+[Visual-WSD](docs/Visual_WSD.pdf)
+
 ## Task
 
 Given a word and some limited textual context, the task is to select among a set of candidate images the one which corresponds to the intended meaning of the target word.
